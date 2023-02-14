@@ -1,3 +1,11 @@
-let message : string
-message = "arsalan ahmed"
+let message= "arsalan   ahmed"
 console.log(message)
+
+//Qoution no2
+console.log(message.toUpperCase());
+console.log(message.toLowerCase());
+
+
+
+
+
